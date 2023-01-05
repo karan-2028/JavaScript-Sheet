@@ -1,4 +1,4 @@
 let challenge="30 days of JavaScript"
 
-let lowerChallenge=challenge.toLowerCase()
+let upperChallenge=challenge.toUpperCase()
 console.log(lowerChallenge)
